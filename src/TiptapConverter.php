@@ -45,7 +45,7 @@ class TiptapConverter
             new Nodes\DetailsContent(),
             new Nodes\Grid(),
             new Nodes\GridColumn(),
-            new Nodes\Vimeo(),
+            new editor\src\Extensions\Nodes\Vimeo(),
             new Nodes\YouTube(),
             new Nodes\Hurdle(),
             new Table(),

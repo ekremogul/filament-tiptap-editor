@@ -47,7 +47,7 @@
                     rel: link.rel.length ? link.rel.join(' ') : null,
                     as_button: link.as_button ? true : false,
                     button_theme: link.button_theme ?? '',
-                    class: link.as_button ? `btn btn-${link.button_theme}` : null
+                    class: link.as_button ? `btn btn-${link.button_theme}` : null,
                 })
                 .selectTextblockEnd()
                 .run();

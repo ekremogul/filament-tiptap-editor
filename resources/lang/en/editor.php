@@ -11,6 +11,7 @@ return [
     'code_block' => 'Code Block',
     'code' => 'Inline Code',
     'color' => 'Color',
+    'color-list' => 'Color List',
     'details' => 'Details',
     'erase' => 'Erase All Content',
     'fullscreen' => [
